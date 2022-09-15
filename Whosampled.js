@@ -18,7 +18,7 @@
 
       }
 
-    const cntxMenu = new Spicetify.ContextMenu.Item("rateyourmusic", openSite)
+    const cntxMenu = new Spicetify.ContextMenu.Item("Whosampled", openSite)
     cntxMenu.register()
 
 })();
